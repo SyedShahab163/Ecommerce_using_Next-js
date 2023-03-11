@@ -23,6 +23,6 @@
       "@/*": ["./src/*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "src/helper/initDB.tsx", "src/helper/initDB.tsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "src/helper/initDB.js", "src/helper/initDB.js", , "src/app/page.js""src/compnent/Navber.js"],
   "exclude": ["node_modules"]
 }
